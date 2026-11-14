@@ -9,7 +9,7 @@
 <img alt="零依赖" src="https://img.shields.io/badge/%E9%9B%B6%E7%AC%AC%E4%B8%89%E6%96%B9%E4%BE%9D%E8%B5%96-0%20deps-success?style=for-the-badge">
 <img alt="零权限" src="https://img.shields.io/badge/%E6%9D%83%E9%99%90-%E6%97%A0-informational?style=for-the-badge">
 
-![手表探针实测界面](minis_1790882854623.png)
+![手表探针实测界面](docs/screenshot.png)
 
 ## 它能告诉你什么
 
